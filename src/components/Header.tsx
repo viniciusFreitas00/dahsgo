@@ -58,7 +58,7 @@ export function Header() {
           pr="8"
           py="1"
           color="gray.300"
-          borderWidth={1}
+          borderRightWidth={1}
           borderColor="gray.700"
         >
           <Icon as={RiNotificationLine} fontSize="20" />
